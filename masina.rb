@@ -1,0 +1,3 @@
+class Masina
+
+end
